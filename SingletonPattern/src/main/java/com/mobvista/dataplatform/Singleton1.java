@@ -3,7 +3,7 @@ package com.mobvista.dataplatform;
 /**
  * author: dulei
  * date: 2018-06-27
- * desc:饿汉模式
+ * desc:懒汉模式
  */
 public class Singleton1 {
     private static Singleton1 singleton1 = null;
