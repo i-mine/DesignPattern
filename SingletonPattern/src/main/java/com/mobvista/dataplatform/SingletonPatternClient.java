@@ -5,7 +5,7 @@ package com.mobvista.dataplatform;
  * date: 2018-06-27
  * desc: 单例模式使用模拟环境
  */
-public class SingletonParttenClient {
+public class SingletonPatternClient {
     public static void main(String[] args) {
         //获取唯一的单例对象
         Singleton1 singleton1 = Singleton1.getInstance();

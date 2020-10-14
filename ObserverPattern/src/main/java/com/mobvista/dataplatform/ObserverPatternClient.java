@@ -1,6 +1,6 @@
 package com.mobvista.dataplatform;
 
-public class ObserverParttenClient {
+public class ObserverPatternClient {
     public static void main(String[] args) {
         IReader studentOne = new Student();
         IReader scientistOne = new Scientist();
